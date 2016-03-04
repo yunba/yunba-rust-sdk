@@ -1,2 +1,5 @@
-# yunba-rust-sdk
-Yunba SDK base on Erlang.
+# yunba_sdk
+
+yunba rust sdk
+
+cargo test -- --nocapture
