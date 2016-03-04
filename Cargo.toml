@@ -6,4 +6,4 @@ authors = ["shq"]
 [dependencies]
 regex="0.1"
 rustc-serialize = "0.3.18"
-mqtt={git = "https://github.com/Leviathan1995/mqtt-rs.git"}
+mqtt={git = "https://github.com/yunba/mqtt-rs.git"}
